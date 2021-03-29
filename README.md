@@ -1,6 +1,6 @@
 # PHSX815 Spring 2021 Week 8
 
-## Parameter estimation & Maximum Likelihood
+## Parameter Estimation & Maximum Likelihood
 
 This repository contains the following program(s):
 
@@ -11,7 +11,8 @@ This repository contains the following program(s):
                    number of measurements per experiment, and which "slice" to
                    view. Also automatically saves the plots to picture files.
                    [C++]
-
+- `HW9/Minimize.x` : minimizes the function sin(x)*e^(-x^2) and outputs the
+                   results [C++]
 
 ### Requirements
 
